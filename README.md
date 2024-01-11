@@ -1,1 +1,1 @@
-Here you can find codes regarding java.
+Here you can find codes in java.
