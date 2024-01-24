@@ -14,7 +14,7 @@ public class MultiplicationTable {
         // Close the scanner to prevent resource leaks
         scanner.close();
 
-        // Display the multiplication table using a for loop
+        // Display the multiplication table using a for loop.
         System.out.println("\nMultiplication Table for " + number + ":");
 
         for (int i = 1; i <= 10; i++) {
