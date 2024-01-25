@@ -10,7 +10,7 @@ public class ArrayTraversal {
         }
 
         // Traverse the array using an enhanced for loop (for-each loop)
-        System.out.println("\nUsing an enhanced for loop:");
+        System.out.println("\nUsing an enhanced for loop and print:");
         for (int number : numbers) {
             System.out.println("Element: " + number);
         }
