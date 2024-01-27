@@ -17,7 +17,8 @@ public class Variable{
 
        String wish="Good Morning!";
        System.out.println(wish);
-
+        char place= 'e';
+        System.out.println(place);
 
 
     }
